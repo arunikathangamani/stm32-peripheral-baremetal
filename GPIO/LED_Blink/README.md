@@ -39,7 +39,7 @@ GPIO/
 └── LED_Blink/
     ├── main.c
     ├── README.md
-    └── Images/
+
 ```
 
 ## Learning Outcomes
